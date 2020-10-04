@@ -1,5 +1,6 @@
 # Quiz Maker
-Generates and saves quizzes of your creation.
+Generates and saves quizzes of your creation. /n
+Language: C++
 
 # Features
 Menu:
