@@ -35,7 +35,6 @@ int main() {
       quizmaker.display();
     } else if (choice == "d" || choice == "D") {
       cout << "What filename would you like to use? ";
-      //  cin >> savefilename;
       getline(cin, savefilename);
       quizmaker.save(savefilename);
     } else if (choice == "e" || choice == "E") {
